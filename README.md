@@ -1,3 +1,4 @@
 # GameJam_test
 git_test_repo
-hello
+hello 
+수정중이빈다 
